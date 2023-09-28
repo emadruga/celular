@@ -3,7 +3,7 @@ console.log('atualizando...')
 async function getURL(url) {
     return (await fetch(url)).json();
 }
-d
+
 let preco_iphone_brasil_brl = 7299.0
 let preco_iphone_eua_usd = 799.0;
 
