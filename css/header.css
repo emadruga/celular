@@ -7,6 +7,12 @@
   align-items: center;
 }
 
+.header .logo {
+  max-width: 70%;
+  height: 150px;
+  display: block;
+}
+
 .header-menu {
   display: flex;
   flex-wrap: wrap;
