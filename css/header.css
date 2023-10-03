@@ -1,6 +1,6 @@
 .header {
   max-width: 1200px;
-  padding: 40px 20px;
+  padding: 10px 10px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -8,8 +8,6 @@
 }
 
 .header .logo {
-  max-width: 70%;
-  height: 150px;
   display: block;
 }
 
