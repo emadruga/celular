@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
-<desc>Created with Fabric.js 5.2.4</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300" height="90" viewBox="0 0 300 90" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
 <defs>
 </defs>
-<g transform="matrix(1 0 0 1 540 540)" id="bc148018-40bc-4032-aa96-271292611ae7"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
-</g>
-<g transform="matrix(1 0 0 1 540 540)" id="257a31a2-462f-4952-86ee-442595d6074f"  >
-</g>
-<g transform="matrix(1 0 0 1 540.5 589.09)" style="" id="12928c5d-3e1a-4329-ada2-220f28d18c38"  >
-		<text xml:space="preserve" font-family="Raleway" font-size="191" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-322.22" y="60" >iPhone</tspan></text>
+<g transform="matrix(0.9 0 0 0.9 154.66 46.36)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-138.3" y="25.13" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 80px; font-style: normal; font-weight: bold; fill: rgb(0,0,0); ">iPhone</tspan></text>
 </g>
 </svg>
